@@ -1,4 +1,4 @@
-Color JSON output from other programs
+> Color JSON output from other programs
 
 ![screenshot](https://i.imgur.com/175gebf.png)
 ## Install
