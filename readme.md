@@ -1,4 +1,4 @@
-Color and stringify JSON output
+Color JSON output from other programs
 
 ![screenshot](https://i.imgur.com/175gebf.png)
 ## Install
