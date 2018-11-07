@@ -1,6 +1,6 @@
 {
   "name": "color-json-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Color JSON in the console",
   "main": "color-json-cli.js",
   "directories": {
