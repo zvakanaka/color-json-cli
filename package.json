@@ -32,6 +32,6 @@
   "homepage": "https://github.com/zvakanaka/color-json-cli#readme",
   "dependencies": {
     "color-json": "^2.0.0",
-    "through2": "^2.0.3"
+    "through2": "^4.0.2"
   }
 }
